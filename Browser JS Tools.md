@@ -1,6 +1,5 @@
-# ColdFusion Debug Bookmarklets
+# Debug Bookmarklets
 
-Browser bookmarklets for debugging and inspecting ColdFusion-based web apps (e2Hillsborough-style UIs).
 
 ## Highlight Form Fields
 
